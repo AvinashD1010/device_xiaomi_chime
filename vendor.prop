@@ -161,6 +161,7 @@ drm.service.enabled=true
 persist.backup.ntpServer=0.pool.ntp.org
 
 # Graphics
+debug.hwui.skia_atrace_enabled=false
 debug.egl.hw=0
 debug.mdpcomp.logs=0
 debug.sf.enable_advanced_sf_phase_offset=1
